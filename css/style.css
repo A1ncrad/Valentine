@@ -1,0 +1,50 @@
+body {
+	margin: 0;
+	height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.valentine {
+	height: 90vmin;
+	width: auto;
+	cursor: pointer;
+}
+
+.flip,
+.letter {
+	transition: .5s;
+	transition-timing-function: ease-out;
+	transform-box: fill-box;
+}
+
+.flip.active {
+	transform: rotateX(-180deg);
+	transition-timing-function: ease-in;
+}
+
+.letter.active {
+	transform: translate(7.5%, -50%) scale(0.85);
+	transition-timing-function: ease-in;
+}
+
+.heart--pulse {
+	transform-origin: center center;
+	transform-box: fill-box;
+	animation: pulse .7s ease-in-out infinite;
+}
+
+@keyframes pulse {
+	0% {
+		transform: scale(1);
+	}
+
+	50% {
+		transform: scale(1.2);
+	}
+
+	100% {
+		transform: scale(1);
+	}
+}

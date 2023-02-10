@@ -1,0 +1,28 @@
+<svg fill="#fb607f" width="40" height="39" viewBox="0 0 40 39" xmlns="http://www.w3.org/2000/svg">
+	<style>
+		.heart {
+			transform-origin: center center;
+			-moz-animation: pulse .7s ease-in-out infinite;
+		}
+
+		@keyframes pulse {
+			0% {
+				transform: scale(0.7);
+			}
+
+			50% {
+				transform: scale(1);
+			}
+
+			100% {
+				transform: scale(0.7);
+			}
+		}
+	</style>
+	<rect width="40" height="39" fill="transparent" />
+	<g class="heart">
+		<circle cx="13.5" cy="13.5" r="13.5" />
+		<circle cx="26.5" cy="13.5" r="13.5" />
+		<path d="M19.1949 38.2987C19.5849 38.6867 20.2151 38.6867 20.6051 38.2987L36.2814 22.7091C36.914 22.0799 36.4685 21 35.5762 21H4.22377C3.33153 21 2.88597 22.0799 3.51862 22.7091L19.1949 38.2987Z" />
+	</g>
+</svg>

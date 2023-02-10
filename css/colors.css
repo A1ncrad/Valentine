@@ -1,0 +1,28 @@
+body {
+	background-color: #b9fdee;
+}
+
+.envelope {
+	fill: #fdb9c8;
+}
+
+.envelope-inner {
+	fill: #f19cbb;
+}
+
+.letter {
+	fill: #fdfdfd;
+}
+
+.text {
+	fill: #333;
+}
+
+.heart {
+	fill: #fb607f;
+}
+
+.stroke {
+	stroke: #333;
+	stroke-width: 0.5;
+}
