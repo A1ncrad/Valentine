@@ -3,4 +3,4 @@
 <p align="center">
   <img src="https://github.com/Timur345/Valentine/blob/master/favicon.svg" width="30%" height="auto" align="center" />
 </p>
-<!-- NOTE: Animated favicon works only in Firefox -->
+> **_NOTE:_**  The note content.
