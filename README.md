@@ -3,4 +3,9 @@
 <p align="center">
   <img src="https://github.com/Timur345/Valentine/blob/master/favicon.svg" width="30%" height="auto" align="center" />
 </p>
-> **_NOTE:_**  The note content.
+---
+**NOTE**
+
+It works with almost all markdown flavours (the below blank line matters).
+
+---
