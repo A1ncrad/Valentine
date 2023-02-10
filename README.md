@@ -6,4 +6,5 @@
 --
 **NOTE:** 
 Favicon animation works only in Firefox
+
 --
