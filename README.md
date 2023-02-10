@@ -3,9 +3,4 @@
 <p align="center">
   <img src="https://github.com/Timur345/Valentine/blob/master/favicon.svg" width="30%" height="auto" align="center" />
 </p>
---------------------------------------------------------------
-![Tip](images/tip.png)\ Table multiline text bla bla bla bla
-                        bla bla bla bla bla bla bla ... the
-                        blank line below is important 
-
------------------------------------------------------------
+> This is the first level of quoting.
